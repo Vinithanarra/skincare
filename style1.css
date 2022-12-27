@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 32px;
+
+}
+#skin-care{
+    display: flex;
+    float: left;
+}
+#rate{
+    color: deeppink;
+}
+#side-2{
+    padding-top: 24px;
+}
